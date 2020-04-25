@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<int name="PARTS_042(ALPHA)" value="70" />
+<string name="PARTS_004">38,38,38</string>
+<string name="PARTS_003">44,92,191</string>
+<int name="PARTS_106(ALPHA)" value="0" />
+<string name="PARTS_006">92,129,203</string>
+<int name="PARTS_030(ALPHA)" value="100" />
+<string name="PARTS_005">37,54,100</string>
+<string name="PARTS_002">72,160,240</string>
+<string name="PARTS_001">22,38,72</string>
+<int name="PARTS_008(ALPHA)" value="100" />
+<int name="PARTS_024(ALPHA)" value="100" />
+<string name="PARTS_008">57,132,237</string>
+<int name="PARTS_120(ALPHA)" value="0" />
+<string name="PARTS_007">8,8,92</string>
+<int name="PARTS_138(ALPHA)" value="0" />
+<string name="PARTS_009">27,65,176</string>
+<int name="PARTS_107(ALPHA)" value="0" />
+<int name="PARTS_005(ALPHA)" value="80" />
+<int name="PARTS_015(ALPHA)" value="100" />
+<int name="PARTS_001(ALPHA)" value="80" />
+<int name="PARTS_014(ALPHA)" value="100" />
+<int name="PARTS_038(ALPHA)" value="100" />
+<int name="PARTS_137(ALPHA)" value="0" />
+<int name="PARTS_013(ALPHA)" value="100" />
+<int name="PARTS_025(ALPHA)" value="100" />
+<int name="PARTS_112(ALPHA)" value="0" />
+<int name="PARTS_037(ALPHA)" value="100" />
+<int name="PARTS_132(ALPHA)" value="0" />
+<int name="PARTS_130(ALPHA)" value="0" />
+<int name="PARTS_114(ALPHA)" value="0" />
+<int name="PARTS_019(ALPHA)" value="100" />
+<string name="PARTS_022">41,85,177</string>
+<int name="PARTS_115(ALPHA)" value="0" />
+<string name="PARTS_021">72,160,240</string>
+<string name="PARTS_024">33,33,33</string>
+<string name="PARTS_023">37,54,100</string>
+<string name="PARTS_026">56,80,248</string>
+<string name="PARTS_025">112,160,216</string>
+<int name="PARTS_125(ALPHA)" value="0" />
+<int name="PARTS_002(ALPHA)" value="100" />
+<string name="PARTS_028">56,80,248</string>
+<string name="PARTS_027">56,80,248</string>
+<int name="PARTS_103(ALPHA)" value="0" />
+<int name="PARTS_129(ALPHA)" value="0" />
+<string name="PARTS_029">132,132,132</string>
+<int name="PARTS_136(ALPHA)" value="0" />
+<int name="PARTS_116(ALPHA)" value="0" />
+<int name="PARTS_039(ALPHA)" value="8" />
+<int name="PARTS_003(ALPHA)" value="92" />
+<int name="PARTS_016(ALPHA)" value="100" />
+<string name="PARTS_020">19,32,59</string>
+<string name="PARTS_013">10,14,29</string>
+<string name="PARTS_012">10,14,29</string>
+<int name="PARTS_131(ALPHA)" value="0" />
+<string name="PARTS_011">25,25,25</string>
+<string name="PARTS_010">17,33,73</string>
+<int name="PARTS_018(ALPHA)" value="85" />
+<string name="PARTS_017">32,48,112</string>
+<int name="PARTS_023(ALPHA)" value="100" />
+<int name="PARTS_011(ALPHA)" value="100" />
+<int name="PARTS_010(ALPHA)" value="100" />
+<string name="PARTS_016">128,192,248</string>
+<string name="PARTS_015">8,8,8</string>
+<int name="PARTS_007(ALPHA)" value="100" />
+<string name="PARTS_014">0,43,121</string>
+<string name="PARTS_019">72,160,240</string>
+<int name="PARTS_128(ALPHA)" value="0" />
+<string name="PARTS_018">33,33,33</string>
+<int name="PARTS_122(ALPHA)" value="0" />
+<int name="PARTS_041(ALPHA)" value="100" />
+<int name="PARTS_124(ALPHA)" value="0" />
+<int name="PARTS_135(ALPHA)" value="0" />
+<int name="PARTS_105(ALPHA)" value="0" />
+<int name="PARTS_009(ALPHA)" value="100" />
+<int name="PARTS_126(ALPHA)" value="0" />
+<int name="PARTS_110(ALPHA)" value="0" />
+<int name="PARTS_119(ALPHA)" value="0" />
+<int name="PARTS_123(ALPHA)" value="0" />
+<int name="PARTS_026(ALPHA)" value="100" />
+<int name="PARTS_133(ALPHA)" value="0" />
+<string name="PARTS_130">8,144,240</string>
+<int name="PARTS_111(ALPHA)" value="0" />
+<int name="PARTS_118(ALPHA)" value="0" />
+<string name="PARTS_043">44,92,191</string>
+<string name="PARTS_040">76,159,243</string>
+<string name="PARTS_042">44,44,44</string>
+<int name="PARTS_004(ALPHA)" value="80" />
+<string name="PARTS_041">0,119,238</string>
+<int name="PARTS_102(ALPHA)" value="0" />
+<string name="PARTS_133">240,240,240</string>
+<string name="PARTS_134">32,32,32</string>
+<string name="PARTS_131">80,80,80</string>
+<int name="PARTS_043(ALPHA)" value="92" />
+<string name="PARTS_132">240,240,240</string>
+<string name="PARTS_137">240,64,104</string>
+<string name="PARTS_138">104,24,16</string>
+<string name="PARTS_135">62,62,62</string>
+<string name="PARTS_136">144,144,144</string>
+<int name="PARTS_022(ALPHA)" value="100" />
+<int name="PARTS_021(ALPHA)" value="100" />
+<int name="PARTS_006(ALPHA)" value="50" />
+<int name="PARTS_031(ALPHA)" value="100" />
+<int name="PARTS_027(ALPHA)" value="100" />
+<int name="PARTS_127(ALPHA)" value="0" />
+<int name="PARTS_040(ALPHA)" value="100" />
+<string name="PARTS_038">48,48,48</string>
+<string name="PARTS_039">240,240,240</string>
+<string name="PARTS_036">158,182,255</string>
+<string name="PARTS_037">206,218,255</string>
+<string name="PARTS_034">240,240,240</string>
+<int name="PARTS_033(ALPHA)" value="100" />
+<string name="PARTS_035">172,197,252</string>
+<string name="PARTS_032">8,8,8</string>
+<string name="PARTS_033">56,80,248</string>
+<string name="PARTS_031">240,240,240</string>
+<string name="PARTS_030">41,49,184</string>
+<int name="PARTS_032(ALPHA)" value="50" />
+<int name="PARTS_109(ALPHA)" value="0" />
+<int name="PARTS_012(ALPHA)" value="100" />
+<int name="PARTS_035(ALPHA)" value="100" />
+<int name="PARTS_101(ALPHA)" value="0" />
+<int name="PARTS_036(ALPHA)" value="100" />
+<string name="PARTS_119">56,80,248</string>
+<string name="PARTS_117">8,8,8</string>
+<string name="PARTS_118">240,240,240</string>
+<string name="PARTS_115">240,240,240</string>
+<int name="PARTS_121(ALPHA)" value="0" />
+<string name="PARTS_116">240,240,240</string>
+<int name="PARTS_104(ALPHA)" value="0" />
+<string name="PARTS_113">8,8,8</string>
+<string name="PARTS_114">8,8,8</string>
+<string name="PARTS_111">240,240,240</string>
+<string name="PARTS_112">80,80,80</string>
+<string name="PARTS_110">80,80,80</string>
+<int name="PARTS_117(ALPHA)" value="0" />
+<int name="PARTS_028(ALPHA)" value="100" />
+<int name="PARTS_108(ALPHA)" value="0" />
+<int name="PARTS_017(ALPHA)" value="85" />
+<string name="PARTS_128">8,8,8</string>
+<string name="PARTS_108">8,8,8</string>
+<int name="PARTS_029(ALPHA)" value="100" />
+<string name="PARTS_129">240,240,240</string>
+<string name="PARTS_109">8,8,8</string>
+<int name="PARTS_134(ALPHA)" value="0" />
+<string name="PARTS_106">8,8,8</string>
+<int name="PARTS_113(ALPHA)" value="0" />
+<string name="PARTS_107">80,80,80</string>
+<string name="PARTS_124">8,8,8</string>
+<string name="PARTS_104">8,8,8</string>
+<string name="PARTS_125">80,80,80</string>
+<string name="PARTS_105">240,240,240</string>
+<string name="PARTS_126">255,231,79</string>
+<string name="PARTS_102">8,8,8</string>
+<string name="PARTS_127">80,80,80</string>
+<string name="PARTS_103">240,240,240</string>
+<string name="PARTS_120">240,240,240</string>
+<int name="PARTS_020(ALPHA)" value="100" />
+<string name="PARTS_121">80,80,80</string>
+<string name="PARTS_101">240,240,240</string>
+<string name="PARTS_122">136,136,136</string>
+<int name="PARTS_034(ALPHA)" value="100" />
+<string name="PARTS_123">240,240,240</string>
+</map>
